@@ -1,5 +1,6 @@
-# Taller listas circulares dobles
-## Reloj analogico
+Markdown
+
+# Taller listas circulares dobles - Reloj analogico
 David Enmanuel Castillo Florez
 
 Este es un proyecto de un reloj analogico, hace uso de:
@@ -13,7 +14,7 @@ Este es un proyecto de un reloj analogico, hace uso de:
 - Al ejecutar el programa empieza a correr desde el 0,0,0
 
 ### Cómo usar
-1. Clonar el repositorio con 'git clone https://github.com/FireSouls25/EstructurasDeDatos.git'
+1. Clonar el repositorio con ```git clone https://github.com/FireSouls25/EstructurasDeDatos.git```
 2. Ejecutar el programa
 - En windows ejecutar el run.bat
 - En otros dispositivos dar doble click en el archivo Frontend.py o abrir una terminal y escribir 'python Frontend.py' 
